@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    background: none;
+    margin-top: 0;
+}
+
+.project {
+    display: flex;
+    justify-content: center;
+    background: none;
+}
+
+.web-design {
+    border: 15px solid green;
+    background-color: green;
+    margin: 0 15px 0 15px;
+}
+
